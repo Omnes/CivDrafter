@@ -1,0 +1,114 @@
+{
+    "leaders" : [
+        {
+            "id" : 1,
+            "name" : "Teddy Roosevelt",
+            "civilization" : "America"
+        },
+        {
+            "id" : 2,
+            "name" : "Saladin",
+            "civilization" : "Arabia"
+        },
+        {
+            "id" : 3,
+            "name" : "John Curtin",
+            "civilization" : "Australia"
+        },
+        {
+            "id" : 4,
+            "name" : "Montezuma",
+            "civilization" : "Aztec"
+        },
+        {
+            "id" : 5,
+            "name" : "Pedro II",
+            "civilization" : "Brazil"
+        },
+                {
+            "id" : 6,
+            "name" : "Qin Shi Huang",
+            "civilization" : "China"
+        },
+        {
+            "id" : 7,
+            "name" : "Cleopatra",
+            "civilization" : "Egypt"
+        },
+        {
+            "id" : 8,
+            "name" : "Victoria",
+            "civilization" : "England"
+        },
+        {
+            "id" : 9,
+            "name" : "Catherine de' Medici",
+            "civilization" : "France"
+        },
+        {
+            "id" : 10,
+            "name" : "Frederick Barbarossa",
+            "civilization" : "Germany"
+        },
+        {
+            "id" : 11,
+            "name" : "Gorgo",
+            "civilization" : "Greece"
+        },
+        {
+            "id" : 12,
+            "name" : "Pericles",
+            "civilization" : "Greece"
+        },
+        {
+            "id" : 13,
+            "name" : "Gandhi",
+            "civilization" : "India"
+        },
+        {
+            "id" : 14,
+            "name" : "Hojo Tokimune",
+            "civilization" : "Japan"
+        },
+        {
+            "id" : 15,
+            "name" : "Mvemba a Nzinga",
+            "civilization" : "Kongo"
+        },
+        {
+            "id" : 16,
+            "name" : "Harald Hardrada",
+            "civilization" : "Norway"
+        },
+        {
+            "id" : 17,
+            "name" : "Jadwiga",
+            "civilization" : "Poland"
+        },
+        {
+            "id" : 18,
+            "name" : "Trajan",
+            "civilization" : "Rome"
+        },
+        {
+            "id" : 19,
+            "name" : "Peter",
+            "civilization" : "Russia"
+        },
+        {
+            "id" : 20,
+            "name" : "Tomyris",
+            "civilization" : "Scythia"
+        },
+        {
+            "id" : 21,
+            "name" : "Philip II",
+            "civilization" : "Spain"
+        },
+        {
+            "id" : 22,
+            "name" : "Gilgamesh",
+            "civilization" : "Sumeria"
+        }
+    ]
+}
