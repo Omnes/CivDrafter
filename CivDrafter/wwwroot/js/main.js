@@ -10842,7 +10842,8 @@ var _elm_lang$html$Html_Events$Options = F2(
 		return {stopPropagation: a, preventDefault: b};
 	});
 
-var _user$project$Main$leaderJson = '\n[\n    {\n        \"id\" : 1,\n        \"name\" : \"Teddy Roosevelt\",\n        \"civilization\" : \"America\",\n        \"protraitUrl\" : \"/6/65/Character_Teddy.png\"\n    },\n    {\n        \"id\" : 2,\n        \"name\" : \"Saladin\",\n        \"civilization\" : \"Arabia\",\n        \"protraitUrl\" : \"/c/cd/Character_Saladin.png\"\n    },\n    {\n        \"id\" : 3,\n        \"name\" : \"John Curtin\",\n        \"civilization\" : \"Australia\",\n        \"protraitUrl\" : \"/0/0a/Character_John_Curtin.png\"\n    },\n    {\n        \"id\" : 4,\n        \"name\" : \"Montezuma\",\n        \"civilization\" : \"Aztec\",\n        \"protraitUrl\" : \"/7/7d/Character_Montezuma.png\"\n    },\n    {\n        \"id\" : 5,\n        \"name\" : \"Pedro II\",\n        \"civilization\" : \"Brazil\",\n        \"protraitUrl\" : \"/e/e2/Character_Pedro.png\"\n    },\n            {\n        \"id\" : 6,\n        \"name\" : \"Qin Shi Huang\",\n        \"civilization\" : \"China\",\n        \"protraitUrl\" : \"/6/6d/Character_Qin.png\"\n    },\n    {\n        \"id\" : 7,\n        \"name\" : \"Cleopatra\",\n        \"civilization\" : \"Egypt\",\n        \"protraitUrl\" : \"/3/32/Character_Cleopatra.png\"\n    },\n    {\n        \"id\" : 8,\n        \"name\" : \"Victoria\",\n        \"civilization\" : \"England\",\n        \"protraitUrl\" : \"/1/17/Character_Victoria.png\"\n    },\n    {\n        \"id\" : 9,\n        \"name\" : \"Catherine de\' Medici\",\n        \"civilization\" : \"France\",\n        \"protraitUrl\" : \"/f/fd/Character_Catherine.png\"\n    },\n    {\n        \"id\" : 10,\n        \"name\" : \"Frederick Barbarossa\",\n        \"civilization\" : \"Germany\",\n        \"protraitUrl\" : \"/8/8f/Character_Frederick.png\"\n    },\n    {\n        \"id\" : 11,\n        \"name\" : \"Gorgo\",\n        \"civilization\" : \"Greece\",\n        \"protraitUrl\" : \"/5/5f/Character_Gorgo.png\"\n    },\n    {\n        \"id\" : 12,\n        \"name\" : \"Pericles\",\n        \"civilization\" : \"Greece\",\n        \"protraitUrl\" : \"/b/b5/Character_Pericles.png\"\n    },\n    {\n        \"id\" : 13,\n        \"name\" : \"Gandhi\",\n        \"civilization\" : \"India\",\n        \"protraitUrl\" : \"/1/19/Character_Gandhi.png\"\n    },\n    {\n        \"id\" : 14,\n        \"name\" : \"Hojo Tokimune\",\n        \"civilization\" : \"Japan\",\n        \"protraitUrl\" : \"/b/bd/Character_Hojo.png\"\n    },\n    {\n        \"id\" : 15,\n        \"name\" : \"Mvemba a Nzinga\",\n        \"civilization\" : \"Kongo\",\n        \"protraitUrl\" : \"/a/a2/Character_Mvemba_a_Nzinga.png\"\n    },\n    {\n        \"id\" : 16,\n        \"name\" : \"Harald Hardrada\",\n        \"civilization\" : \"Norway\",\n        \"protraitUrl\" : \"/1/19/Character_Harald.png\"\n    },\n    {\n        \"id\" : 17,\n        \"name\" : \"Jadwiga\",\n        \"civilization\" : \"Poland\",\n        \"protraitUrl\" : \"/3/32/Character_Jadwiga.png\"\n    },\n    {\n        \"id\" : 18,\n        \"name\" : \"Trajan\",\n        \"civilization\" : \"Rome\",\n        \"protraitUrl\" : \"/b/b9/Character_Trajan.png\"\n    },\n    {\n        \"id\" : 19,\n        \"name\" : \"Peter\",\n        \"civilization\" : \"Russia\",\n        \"protraitUrl\" : \"/e/e6/Character_Peter.png\"\n    },\n    {\n        \"id\" : 20,\n        \"name\" : \"Tomyris\",\n        \"civilization\" : \"Scythia\",\n        \"protraitUrl\" : \"/e/e4/Character_Tomyris.png\"\n    },\n    {\n        \"id\" : 21,\n        \"name\" : \"Philip II\",\n        \"civilization\" : \"Spain\",\n        \"protraitUrl\" : \"/6/63/Character_Philip.png\"\n    },\n    {\n        \"id\" : 22,\n        \"name\" : \"Gilgamesh\",\n        \"civilization\" : \"Sumeria\",\n        \"protraitUrl\" : \"/f/fe/Character_Gilgamesh.png\"\n    }\n]\n';
+var _user$project$LeaderJson$leaderJson = '\n[\n    {\n        \"id\" : 1,\n        \"name\" : \"Teddy Roosevelt\",\n        \"civilization\" : \"America\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_t_roosevelt.png\"\n    },\n    {\n        \"id\" : 2,\n        \"name\" : \"Saladin\",\n        \"civilization\" : \"Arabia\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_saladin.png\"\n    },\n    {\n        \"id\" : 3,\n        \"name\" : \"John Curtin\",\n        \"civilization\" : \"Australia\",\n        \"protraitUrl\" : \"images/portraits/Character_John_Curtin.png\",\n        \"dlc\" : true\n    },\n    {\n        \"id\" : 4,\n        \"name\" : \"Montezuma\",\n        \"civilization\" : \"Aztec\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_montezuma.png\"\n    },\n    {\n        \"id\" : 5,\n        \"name\" : \"Pedro II\",\n        \"civilization\" : \"Brazil\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_pedro.png\"\n    },\n            {\n        \"id\" : 6,\n        \"name\" : \"Qin Shi Huang\",\n        \"civilization\" : \"China\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_qin.png\"\n    },\n    {\n        \"id\" : 7,\n        \"name\" : \"Cleopatra\",\n        \"civilization\" : \"Egypt\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_cleopatra.png\"\n    },\n    {\n        \"id\" : 8,\n        \"name\" : \"Victoria\",\n        \"civilization\" : \"England\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_victoria.png\"\n    },\n    {\n        \"id\" : 9,\n        \"name\" : \"Catherine de\' Medici\",\n        \"civilization\" : \"France\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_catherine_de_medici.png\"\n    },\n    {\n        \"id\" : 10,\n        \"name\" : \"Frederick Barbarossa\",\n        \"civilization\" : \"Germany\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_barbarossa.png\"\n    },\n    {\n        \"id\" : 11,\n        \"name\" : \"Gorgo\",\n        \"civilization\" : \"Greece\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_gorgo.png\"\n    },\n    {\n        \"id\" : 12,\n        \"name\" : \"Pericles\",\n        \"civilization\" : \"Greece\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_pericles.png\"\n    },\n    {\n        \"id\" : 13,\n        \"name\" : \"Gandhi\",\n        \"civilization\" : \"India\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_gandhi.png\"\n    },\n    {\n        \"id\" : 14,\n        \"name\" : \"Hojo Tokimune\",\n        \"civilization\" : \"Japan\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_hojo.png\"\n    },\n    {\n        \"id\" : 15,\n        \"name\" : \"Mvemba a Nzinga\",\n        \"civilization\" : \"Kongo\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_mvemba.png\"\n    },\n    {\n        \"id\" : 16,\n        \"name\" : \"Alexander\",\n        \"civilization\" : \"Macedonian\",\n        \"protraitUrl\" : \"images/portraits/Character_Alexander.png\",\n        \"dlc\" : true\n    },\n    {\n        \"id\" : 17,\n        \"name\" : \"Harald Hardrada\",\n        \"civilization\" : \"Norway\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_hardrada.png\"\n    },\n    {\n        \"id\" : 18,\n        \"name\" : \"Jadwiga\",\n        \"civilization\" : \"Poland\",\n        \"protraitUrl\" : \"images/portraits/Character_Jadwiga.png\",\n        \"dlc\" : true\n    },\n    {\n        \"id\" : 19,\n        \"name\" : \"Trajan\",\n        \"civilization\" : \"Rome\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_trajan.png\"\n    },\n    {\n        \"id\" : 20,\n        \"name\" : \"Peter\",\n        \"civilization\" : \"Russia\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_peter_great.png\"\n    },\n    {\n        \"id\" : 21,\n        \"name\" : \"Tomyris\",\n        \"civilization\" : \"Scythia\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_tomyris.png\"\n    },\n    {\n        \"id\" : 22,\n        \"name\" : \"Philip II\",\n        \"civilization\" : \"Spain\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_philip_ii.png\"\n    },\n    {\n        \"id\" : 23,\n        \"name\" : \"Gilgamesh\",\n        \"civilization\" : \"Sumeria\",\n        \"protraitUrl\" : \"images/portraits/Icon_leader_gilgamesh.png\"\n    },\n    {\n        \"id\" : 24,\n        \"name\" : \"Cyrus\",\n        \"civilization\" : \"Persian\",\n        \"protraitUrl\" : \"images/portraits/Character_Cyrus_II.png\",\n        \"dlc\" : true\n    }\n]\n';
+
 var _user$project$Main$shuffleLeaders = F2(
 	function (leaders, message) {
 		return A2(
@@ -10861,7 +10862,6 @@ var _user$project$Main$shuffleLeaders = F2(
 						},
 						leaders))));
 	});
-var _user$project$Main$portraitBaseUrl = 'https://hydra-media.cursecdn.com/civ6.gamepedia.com';
 var _user$project$Main$setCivsPerPlayer = F2(
 	function (settings, count) {
 		return _elm_lang$core$Native_Utils.update(
@@ -10897,7 +10897,7 @@ var _user$project$Main$renderSettingsButton = F3(
 					A2(
 						_elm_lang$core$Basics_ops['++'],
 						'button',
-						_elm_lang$core$Native_Utils.eq(selected, i) ? ' is-primary' : '')),
+						_elm_lang$core$Native_Utils.eq(selected, i) ? ' is-active' : '')),
 				_1: {
 					ctor: '::',
 					_0: _elm_lang$html$Html_Events$onClick(
@@ -10953,8 +10953,7 @@ var _user$project$Main$renderDraftLeader = function (leader) {
 										_elm_lang$html$Html$img,
 										{
 											ctor: '::',
-											_0: _elm_lang$html$Html_Attributes$src(
-												A2(_elm_lang$core$Basics_ops['++'], _user$project$Main$portraitBaseUrl, leader.protraitUrl)),
+											_0: _elm_lang$html$Html_Attributes$src(leader.protraitUrl),
 											_1: {ctor: '[]'}
 										},
 										{ctor: '[]'}),
@@ -11019,9 +11018,9 @@ var _user$project$Main$renderDraftLeader = function (leader) {
 			_1: {ctor: '[]'}
 		});
 };
-var _user$project$Main$Leader = F5(
-	function (a, b, c, d, e) {
-		return {id: a, name: b, civlization: c, banned: d, protraitUrl: e};
+var _user$project$Main$Leader = F6(
+	function (a, b, c, d, e, f) {
+		return {id: a, name: b, civlization: c, banned: d, protraitUrl: e, dlc: f};
 	});
 var _user$project$Main$getLeaderById = F2(
 	function (leaders, id) {
@@ -11034,7 +11033,7 @@ var _user$project$Main$getLeaderById = F2(
 				leaders));
 		var _p0 = leader;
 		if (_p0.ctor === 'Nothing') {
-			return A5(_user$project$Main$Leader, 0, 'Leader 0', 'Civ 0', false, '');
+			return A6(_user$project$Main$Leader, 0, 'Leader 0', 'Civ 0', false, '', false);
 		} else {
 			return _p0._0;
 		}
@@ -11114,26 +11113,31 @@ var _user$project$Main$renderDrafts = F3(
 				}
 			}());
 	});
-var _user$project$Main$leaderDecoder = A3(
-	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
-	'protraitUrl',
-	_elm_lang$core$Json_Decode$string,
-	A2(
-		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$hardcoded,
-		false,
-		A3(
-			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
-			'civilization',
-			_elm_lang$core$Json_Decode$string,
+var _user$project$Main$leaderDecoder = A4(
+	_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$optional,
+	'dlc',
+	_elm_lang$core$Json_Decode$bool,
+	false,
+	A3(
+		_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
+		'protraitUrl',
+		_elm_lang$core$Json_Decode$string,
+		A2(
+			_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$hardcoded,
+			false,
 			A3(
 				_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
-				'name',
+				'civilization',
 				_elm_lang$core$Json_Decode$string,
 				A3(
 					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
-					'id',
-					_elm_lang$core$Json_Decode$int,
-					_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Main$Leader))))));
+					'name',
+					_elm_lang$core$Json_Decode$string,
+					A3(
+						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$required,
+						'id',
+						_elm_lang$core$Json_Decode$int,
+						_NoRedInk$elm_decode_pipeline$Json_Decode_Pipeline$decode(_user$project$Main$Leader)))))));
 var _user$project$Main$leadersDecoder = _elm_lang$core$Json_Decode$list(_user$project$Main$leaderDecoder);
 var _user$project$Main$getLeadersFromJson = function (json) {
 	return A2(
@@ -11179,7 +11183,7 @@ var _user$project$Main$init = {
 	_0: A4(
 		_user$project$Main$Model,
 		A4(_user$project$Main$Settings, 2, 3, 8, 5),
-		_user$project$Main$getLeadersFromJson(_user$project$Main$leaderJson),
+		_user$project$Main$getLeadersFromJson(_user$project$LeaderJson$leaderJson),
 		_elm_lang$core$Maybe$Nothing,
 		{
 			ctor: '::',
@@ -11300,7 +11304,7 @@ var _user$project$Main$renderLeader = function (leader) {
 	var classString = A2(
 		_elm_lang$core$Basics_ops['++'],
 		'button',
-		leader.banned ? ' is-danger' : '');
+		leader.banned ? ' is-danger is-outlined' : (leader.dlc ? ' is-info is-outlined' : ''));
 	return A2(
 		_elm_lang$html$Html$div,
 		{
@@ -11353,7 +11357,15 @@ var _user$project$Main$renderLeaderBanList = function (leaders) {
 			_0: _elm_lang$html$Html_Attributes$class('box'),
 			_1: {ctor: '[]'}
 		},
-		A2(_elm_lang$core$List$map, _user$project$Main$renderLeader, leaders));
+		A2(
+			_elm_lang$core$List$map,
+			_user$project$Main$renderLeader,
+			A2(
+				_elm_lang$core$List$sortBy,
+				function (l) {
+					return l.civlization;
+				},
+				leaders)));
 };
 var _user$project$Main$CreateDraft = function (a) {
 	return {ctor: 'CreateDraft', _0: a};
@@ -11443,19 +11455,30 @@ var _user$project$Main$view = function (model) {
 					_1: {
 						ctor: '::',
 						_0: A2(
-							_elm_lang$html$Html$button,
+							_elm_lang$html$Html$div,
 							{
 								ctor: '::',
-								_0: _elm_lang$html$Html_Attributes$class('button is-centered'),
-								_1: {
-									ctor: '::',
-									_0: _elm_lang$html$Html_Events$onClick(_user$project$Main$Draft),
-									_1: {ctor: '[]'}
-								}
+								_0: _elm_lang$html$Html_Attributes$class('box'),
+								_1: {ctor: '[]'}
 							},
 							{
 								ctor: '::',
-								_0: _elm_lang$html$Html$text('Draft'),
+								_0: A2(
+									_elm_lang$html$Html$button,
+									{
+										ctor: '::',
+										_0: _elm_lang$html$Html_Attributes$class('button is-centered'),
+										_1: {
+											ctor: '::',
+											_0: _elm_lang$html$Html_Events$onClick(_user$project$Main$Draft),
+											_1: {ctor: '[]'}
+										}
+									},
+									{
+										ctor: '::',
+										_0: _elm_lang$html$Html$text('Draft'),
+										_1: {ctor: '[]'}
+									}),
 								_1: {ctor: '[]'}
 							}),
 						_1: {
